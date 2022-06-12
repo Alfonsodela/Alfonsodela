@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
-<h3 align="center">A passionate full stack developer developer from Spain</h3>
+<h3 align="center">Welcome to my Github profile! Here are some statistics on the total of my repositories:</h3>
 
 - 🔭 I’m currently working on [PetLof](https://github.com/Alfonsodela/petlof-front-prod)
 
