@@ -1,6 +1,6 @@
 <h3>Welcome to my Github profile! Here are some statistics on the total of my repositories:</h3>
 
-- 🔭 I’m currently working on [PetLof](https://github.com/Alfonsodela/petlof-front-prod)
+- 🔭 I’m currently working on [react-users-list](https://github.com/Alfonsodela/react-users-list)
 
 - 🌱 I’m currently learning **React and Angular**
 
