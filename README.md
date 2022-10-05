@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer developer from Spain</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alfonsodela&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsodela&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=Alfonsodela&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
 <!-- - 🔭 I’m currently working on [PetLof](https://github.com/Alfonsodela/petlof-front-prod)
 
