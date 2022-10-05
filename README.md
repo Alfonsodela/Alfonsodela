@@ -1,6 +1,6 @@
 ### 👋 Welcome to my Github profile! Here are some statistics on the total of my repositories:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alfonsodela&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alfonsodela&show_icons=true&title_color=ffffff&icon_color=F1E05A&text_color=ffffff&bg_color=3178C6"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsodela&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
 <h3 align="left">Connect with me:</h3>
